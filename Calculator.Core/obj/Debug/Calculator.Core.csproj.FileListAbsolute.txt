@@ -1,0 +1,5 @@
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\Calculator.Core\bin\Debug\Calculator.Core.dll
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\Calculator.Core\bin\Debug\Calculator.Core.pdb
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\Calculator.Core\obj\Debug\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\Calculator.Core\obj\Debug\Calculator.Core.dll
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\Calculator.Core\obj\Debug\Calculator.Core.pdb

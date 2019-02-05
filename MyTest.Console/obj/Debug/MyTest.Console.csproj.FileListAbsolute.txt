@@ -1,0 +1,10 @@
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\bin\Debug\MyTest.Console.exe.config
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\bin\Debug\MyTest.Console.exe
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\bin\Debug\MyTest.Console.pdb
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\bin\Debug\Calculator.Core.dll
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\bin\Debug\Calculator.Core.pdb
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\obj\Debug\MyTest.Console.csprojAssemblyReference.cache
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\obj\Debug\MyTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\obj\Debug\MyTest.Console.csproj.CopyComplete
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\obj\Debug\MyTest.Console.exe
+C:\Users\kamran.abdullayev\Desktop\Entity Test Solution\MyTest.Console\obj\Debug\MyTest.Console.pdb
