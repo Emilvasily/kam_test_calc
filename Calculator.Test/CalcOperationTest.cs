@@ -27,7 +27,7 @@ namespace Calculator.Test
 
         [Theory]
         [InlineData(2, 1, 1)]
-        [InlineData(22, 20, 1)]
+        [InlineData(22, 20, 2)]
         public void Substraction(double a, double b, double result)
         {
             calculator.Before = a;
